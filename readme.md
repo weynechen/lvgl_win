@@ -12,7 +12,7 @@ A simple and crude implement of lvgl windows demo.
 
 
 
-## Dependencies
+## Setup
 
 vs2017 with clang support. When you install vs2017 , you should select package clang.
 
